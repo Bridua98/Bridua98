@@ -1,50 +1,76 @@
 # Israel Brizuela
 
-**Analista de sistemas y desarrollador** · Caaguazú, Paraguay  
-**Systems Analyst & Software Developer** · Caaguazú, Paraguay
+**Analista de sistemas senior** · ERP contable y tributario · Paraguay  
+**Senior systems analyst** · Accounting & tax ERP · Paraguay
 
-Diseño y mantengo software de gestión para estudios contables, comercios y productores.  
-I design and maintain business software for accounting firms, retailers, and producers.
+Traduzco reglas fiscales y de negocio a software que se usa todos los días: declaraciones juradas, informes financieros y módulos de gestión.  
+I turn tax and business rules into software people use every day: tax returns, financial reports, and management modules.
 
-[LinkedIn](https://www.linkedin.com/in/israel-brizuela-duarte-84aa71140) · [Sistemas Águila](https://www.sistemasaguila.com.py) · [GitHub Org](https://github.com/sistemasaguila)
-
----
-
-## Sobre mí / About
-
-**ES** · Analista de sistemas senior en [Sistemas Águila](https://www.sistemasaguila.com.py). Traduzco reglas contables y fiscales de Paraguay a software usable: compras, ventas, tesorería, IVA, libros e informes. Trabajo en un ERP de escritorio en producción (Java), con énfasis en análisis funcional, calidad de datos y reportes.
-
-**EN** · Senior systems analyst at [Sistemas Águila](https://www.sistemasaguila.com.py). I turn Paraguayan accounting and tax rules into usable software: purchases, sales, treasury, VAT, ledgers, and reports. I work on a production desktop ERP (Java), with a focus on functional analysis, data quality, and reporting.
+[LinkedIn](https://www.linkedin.com/in/israel-brizuela-duarte-84aa71140) · [Sistemas Águila](https://www.sistemasaguila.com.py)
 
 ---
 
-## Qué hago / What I do
+## En qué soy fuerte / What I do best
+
+**ES** · Analizo, diseño y evoluciono un ERP en producción (web y escritorio). El núcleo de mi trabajo es que los números cierren: IVA, DDJJ, libros e informes. No solo programo pantallas: modelo el proceso del contribuyente, de la consultora y del productor.
+
+**EN** · I analyze, design, and evolve a production ERP (web and desktop). The core of my work is that the numbers close: VAT, tax returns, ledgers, and reports. I don't just build screens: I model the process for taxpayers, accounting firms, and producers.
+
+### Tributario y financiero / Tax & finance
 
 | ES | EN |
 |---|---|
-| Analizo procesos de negocio y los convierto en pantallas, reglas y reportes | I turn business processes into screens, rules, and reports |
-| Mantengo y evoluciono un ERP Java usado por estudios contables y empresas | I maintain and evolve a Java ERP used by accounting firms and companies |
-| Trabajo SQL, migraciones, JasperReports y flujos tributarios (SET/DNIT) | I work with SQL, migrations, JasperReports, and tax workflows (SET/DNIT) |
-| Acompaño a usuarios: diagnóstico, criterios de aceptación y puesta en marcha | I work with users: diagnosis, acceptance criteria, and rollout |
+| Declaraciones juradas (IVA y formularios DNIT/SET) | Tax returns (VAT and DNIT/SET forms) |
+| Recálculo por período, consistencia y control de libros | Period recalculation, consistency, and tax-book control |
+| Informes financieros: balance, cuadro de resultados, mayor, diario | Financial reports: balance sheet, P&L, ledger, journal |
+| Libro IVA, gravado/deducible, centros de costo y cortes por mes | VAT books, taxable/deductible, cost centers, monthly cuts |
+
+### Análisis de módulos / Module analysis
+
+Analizo y especifico módulos de un ERP vertical, no un CRUD genérico.  
+I analyze and specify vertical ERP modules, not generic CRUDs.
+
+- **Consultora contable** — clientes, períodos, impuestos, papeles de trabajo  
+  Accounting firm — clients, periods, taxes, working papers
+- **Sociedades civiles** — estructura societaria y operación del estudio  
+  Civil partnerships — firm structure and practice operations
+- **RRHH** — personal, pagos, liquidaciones y su impacto contable  
+  HR — staff, payroll, settlements, and accounting impact
+- **Importación / Exportación** — costos, fletes, IVA y trazabilidad  
+  Import / Export — costs, freight, VAT, and traceability
+- **Agricultura y silos** — stock, producción, acopio y gestión del productor  
+  Agriculture & silos — stock, production, storage, and farm operations
 
 ---
 
-## Stack
+## Dónde lo construyo / Where I build it
 
-`Java` `SQL` `Swing` `Maven` `JasperReports` `Python` `Django`
+ERP **Águila**: producto en producción, **web y escritorio**.  
+Águila ERP: production product, **web and desktop**.
 
-**Dominio / Domain:** contabilidad · IVA · libros fiscales · SET/DNIT · gestión comercial  
-accounting · VAT · tax books · SET/DNIT · business management
+| Capa / Layer | Stack |
+|---|---|
+| Web | Python, JavaScript, HTML, SCSS |
+| Escritorio / Desktop | Java |
+| Datos e informes / Data & reports | SQL, JasperReports |
+
+> El código del producto es de la empresa y no está en repos públicos.  
+> Product code is company-owned and not in public repos.
 
 ---
 
-## Proyectos / Projects
+## Cómo trabajo / How I work
 
-- **[AgriDjo](https://github.com/Bridua98/AgriDjo)** — Prototipo de gestión agrícola (inventario) en Django / Agricultural inventory prototype in Django.
-- **[cotizaciones-set](https://github.com/sistemasaguila/cotizaciones-set)** — API de cotizaciones según datos de la DNIT / Exchange-rate API based on DNIT data *(org)*.
+**ES** · Parto del analista: entiendo el rubro, armo criterios, detecto excepciones fiscales y recién ahí bajo a la implementación. Me muevo entre usuario, regla de negocio y código.
 
-> El producto principal en el que trabajo (ERP Águila) es software de la empresa y no está en repos públicos.  
-> The main product I work on (Águila ERP) is company software and is not in public repos.
+**EN** · I start as an analyst: understand the industry, set criteria, catch tax edge cases, then implement. I move between user, business rule, and code.
+
+---
+
+## Público / Public
+
+- **[AgriDjo](https://github.com/Bridua98/AgriDjo)** — prototipo de gestión agrícola (Django) / agricultural management prototype (Django)
+- **[cotizaciones-set](https://github.com/sistemasaguila/cotizaciones-set)** — API de cotizaciones DNIT / DNIT exchange-rate API *(org)*
 
 ---
 
